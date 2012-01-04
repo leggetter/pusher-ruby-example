@@ -1,4 +1,4 @@
-# Unbelievably simple example of using Pusher with Ruby
+# Simple example of using Pusher with Ruby
 
 To get working simply:
 
